@@ -4,7 +4,7 @@
 
    ```bash
    git clone https://github.com/Bobby-coder/Youtube-clone.git
-   cd Primekart
+   cd Youtube-clone
    ```
 
 2. Install dependencies for both client and server
